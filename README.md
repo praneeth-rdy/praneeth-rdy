@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋 Welcome!
 
-<!--
-**Praneeth-rdy/Praneeth-rdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Waiting for an oppurtunity to contribute to interesting projects!"
 
-Here are some ideas to get you started:
+<details>
+    <summary> Contact Info</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - [ePortfolio](https://praneeth-rdy.github.io/ "GitHub Offered Page")
+
+    - [Linkedin](https://www.linkedin.com/in/praneeth- "My LinkedIn Profile")
+
+    - [Mail](mailto:k.praneeth1199@iitkgp.ac.in "Contact via Mail")
+</details>
