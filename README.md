@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Praneeth.
 ###### I am a full stack developer.
-![I am a coder, gamer, musician, geek, mechanical engineer.](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/jesus-kiteque-wn-KYaHwcis-unsplash.jpg)
+![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
 
 <p>
 
@@ -19,13 +19,15 @@
 </div>
 <br/><br/>
 <hr>
+
+<!--from img.icons8.com/dusk/48/000000/name.png-->
 <div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
-  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a href= "https://www.linkedin.com/in/praneeth-/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/linkedin.png"/></a>
+  <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a>
+  <a href= "mailto:praneeth.kolanu.iitkgp@gmail.com"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/email.png"/></a>
+  <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/facebook.png"/></a>
+  <a href= "https://instagram.com/praneeth__rdy"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/instagram.png"/></a>
 </p>
 </div>
