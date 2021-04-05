@@ -5,9 +5,10 @@
 <p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
-    <a href="https://github.com/praneeth-rdy/"><img src="https://img.shields.io/github/followers/praneeth-rdy?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/praneeth-rdy/"><img src="https://img.shields.io/github/followers/praneeth-rdy?style=social"/></a>
     <a href="https://github.com/praneeth-rdy?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/OS-Ubuntu-a80030"/>
+    <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
+    <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
 
 
