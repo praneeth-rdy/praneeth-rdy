@@ -63,6 +63,10 @@ I am a second year undergrad at IIT Kharagpur. Open Source software excites me, 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-rdy&theme=vue&hide=css,tcl,html" alt="praneeth" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth-rdy&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
+</p>
+
 <br/><br/>
 <hr>
 
