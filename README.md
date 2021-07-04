@@ -59,12 +59,12 @@ I am a second year undergrad at IIT Kharagpur. Open Source software excites me, 
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="praneeth"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-rdy&theme=vue&hide=css,tcl,html" alt="praneeth" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-rdy&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth-rdy&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth-rdy&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
 </p>
 
 <br/><br/>
