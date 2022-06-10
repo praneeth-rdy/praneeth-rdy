@@ -72,9 +72,9 @@ I am a fourth year undergraduate student at IIT Kharagpur. I am an active softwa
     &nbsp;
     <a href="https://www.linkedin.com/in/praneethrdy/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a>
     &nbsp;
-    <a href="mailto:praneeth.kolanu.iitkgp@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Mail logo" title="Mail" height="25" /><a>
+    <a href="mailto:praneeth.kolanu.iitkgp@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Email logo" title="Email" height="25" /><a>
     &nbsp;
-    <a href="https://www.facebook.com/praneeth.kolanu/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=linkedin&logoColor=0077b5" alt="Facebook logo" title="Facebook" height="25" /><a>
+    <a href="https://www.facebook.com/praneeth.kolanu/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=4267b2" alt="Facebook logo" title="Facebook" height="25" /><a>
     &nbsp;
     <a href="https://instagram.com/praneeth__rdy" ><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
     &nbsp;
