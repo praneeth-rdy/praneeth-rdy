@@ -11,14 +11,12 @@
     <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
 
-
-
-I am a third year undergrad at IIT Kharagpur. I am a hybrid full stack developer. I love contributing to open source projects, and I am ever ready to learn more. I always strive to develop applications which add value to people's lives. I believe in the quote, *"Success is not how much money you make, it is how much difference you bring in people's lives"*
+I am a fourth year undergraduate student at IIT Kharagpur. I am an active software developer and an impact driven individual. I love contributing to open source projects, and I am ever ready to learn more. I always strive to build projects which add value to people's lives. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
 
 - 🔭 I keep learning new things and often read books.
 - 💬 Talk with me about technology, finance and entrepreneurship.
 - 🌱 Trying to [live asynchronously](https://www.freecodecamp.org/news/live-asynchronously-c8e7172fe7ea/).
-- ⚡ Looking forward for interesting collaborations.
+- ⚡ Looking forward for interesting collaborations and projects.
 
 <h2><b>💻 Tech Stack</b></h2>
 <p align="center">
@@ -53,7 +51,6 @@ I am a third year undergrad at IIT Kharagpur. I am a hybrid full stack developer
     <a href="https://www.buymeacoffee.com/praneeth" ><img width="200px" src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/BMC.svg" alt="praneeth | bmc"/><a>
 </p>
 
-
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
@@ -71,10 +68,16 @@ I am a third year undergrad at IIT Kharagpur. I am a hybrid full stack developer
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href= "https://www.linkedin.com/in/praneeth-/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/linkedin.png" height="50" /></a>
+    <a href="" ><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" /><a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/praneethrdy/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a>
+    &nbsp;
+    <a href="mailto:praneeth.kolanu.iitkgp@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Mail logo" title="Mail" height="25" /><a>
+    &nbsp;
+    <a href="https://www.facebook.com/praneeth.kolanu/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=linkedin&logoColor=0077b5" alt="Facebook logo" title="Facebook" height="25" /><a>
+    &nbsp;
+    <a href="https://instagram.com/praneeth__rdy" ><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
+    &nbsp;
     <!-- <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a> -->
-    <a href= "mailto:praneeth.kolanu.iitkgp@gmail.com"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/email.png" height="50" /></a>
-    <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/facebook.png" height="50" /></a>
-    <a href= "https://instagram.com/praneeth__rdy"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/instagram.png" height="50" /></a>
   </p>
 </div>
