@@ -11,7 +11,7 @@
     <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
 
-I am a fourth year undergraduate student at IIT Kharagpur. I am an active software developer and an impact driven individual. I love contributing to open source projects, and I am ever ready to learn more. I always strive to build projects which add value to people's lives. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
+I am a final year undergraduate student at IIT Kharagpur. I am an active software developer and an impact driven individual. I love contributing to open source projects, and I am ever ready to learn more. I always strive to build projects which add value to people's lives. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
 
 - 🔭 I keep learning new things and often read books.
 - 💬 Talk with me about technology, finance and entrepreneurship.
@@ -68,9 +68,9 @@ I am a fourth year undergraduate student at IIT Kharagpur. I am an active softwa
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href="" ><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" /><a>
+    <a href="#" ><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" /><a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/praneethrdy/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a>
+    <a href="https://www.linkedin.com/in/praneeth-rdy/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a>
     &nbsp;
     <a href="mailto:praneeth.kolanu.iitkgp@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Email logo" title="Email" height="25" /><a>
     &nbsp;
