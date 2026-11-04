@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Praneeth Reddy.
-### I am a passionate open source contributer and a full stack developer.
+### I am a passionate open source contributer and a software engineer.
 ![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
 
 <p>
@@ -11,7 +11,7 @@
     <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
 </p>
 
-I am a final year undergraduate student at IIT Kharagpur. I am an active software developer and an impact driven individual. I love contributing to open source projects, and I am ever ready to learn more. I always strive to build projects which add value to people's lives. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
+I am an alum of IIT Kharagpur, currently working as an AI Systems Engineering Lead at Trumio Inc. I am an active software developer and an impact driven individual. I love contributing to open source projects, and I am ever ready to learn more. I always strive to build projects which add value to people's lives. I believe in the quote, *"Success is not the money you make, it is the difference you bring in people's lives"*
 
 - 🔭 I keep learning new things and often read books.
 - 💬 Talk with me about technology, finance and entrepreneurship.
