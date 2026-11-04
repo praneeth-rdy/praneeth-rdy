@@ -20,30 +20,22 @@ I am a final year undergraduate student at IIT Kharagpur. I am an active softwar
 
 <h2><b>💻 Tech Stack</b></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/xampp-FB7A24.svg?&style=for-the-badge&logo=xampp&logoColor=white" height="25"/> -->
-  <!-- <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/> -->
-  <!-- <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/opera-FF1B2D.svg?&style=for-the-badge&logo=opera&logoColor=white" height="25"/> -->
-  <img src="https://img.shields.io/badge/git%20&%20github-FF9800.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
-  <!-- <img src="https://img.shields.io/badge/edge-0078D7.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" height="25"/> -->
-  <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/> -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="25"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="25"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="25"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="25"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="25"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" height="25"/>
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="Gatsby" height="25"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="25"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="25"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="25"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="25"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" height="25"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" height="25"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android" height="25"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" height="25"/>
 </p>
 
 <br/>
@@ -53,8 +45,8 @@ I am a final year undergraduate student at IIT Kharagpur. I am an active softwar
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My Github Stats&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-rdy&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="praneeth" />
+    <img height="200em" src="https://github-stats-extended.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=false&border_color=808080&bg_color=242424" alt="Praneeth's GitHub stats"/>
+    <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=praneeth-rdy&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="Praneeth's most used languages" />
 </p>
 
 <p align="center">
@@ -64,20 +56,13 @@ I am a final year undergraduate student at IIT Kharagpur. I am an active softwar
 <br/><br/>
 <hr>
 
-<!--from img.icons8.com/dusk/48/000000/name.png-->
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href="#" ><img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" /><a>
+    <a href="https://github.com/praneeth-rdy"><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&amp;logoColor=white" alt="GitHub" title="GitHub" height="25" /></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/praneeth-rdy/" ><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077b5" alt="LinkedIn logo" title="LinkedIn" height="25" /><a>
+    <a href="https://www.linkedin.com/in/praneeth-rdy/"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&amp;logoColor=0077b5" alt="LinkedIn" title="LinkedIn" height="25" /></a>
     &nbsp;
-    <a href="mailto:praneeth.kolanu.iitkgp@gmail.com" ><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&logoColor=ff0000" alt="Email logo" title="Email" height="25" /><a>
-    &nbsp;
-    <a href="https://www.facebook.com/praneeth.kolanu/" ><img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=4267b2" alt="Facebook logo" title="Facebook" height="25" /><a>
-    &nbsp;
-    <a href="https://instagram.com/praneeth__rdy" ><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=e95950" alt="Instagram logo" title="Instagram" height="25" /><a>
-    &nbsp;
-    <!-- <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a> -->
+    <a href="mailto:praneeth.kolanu.iitkgp@gmail.com"><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&amp;logoColor=ff0000" alt="Email" title="Email" height="25" /></a>
   </p>
 </div>
