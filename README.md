@@ -59,9 +59,9 @@ I am an alum of IIT Kharagpur, currently working as an AI Systems Engineering Le
 <div>
   <h3 align="center">Connect with me</h3>
   <p align="center">
-    <a href="https://github.com/praneeth-rdy"><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&amp;logoColor=white" alt="GitHub" title="GitHub" height="25" /></a>
+    <a href="https://github.com/praneeth-rdy"><img src="assets/github-badge.svg" alt="GitHub" title="GitHub" height="25" /></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/praneeth-rdy/"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&amp;logoColor=0077b5" alt="LinkedIn" title="LinkedIn" height="25" /></a>
+    <a href="https://www.linkedin.com/in/praneeth-rdy/"><img src="assets/linkedin-badge.svg" alt="LinkedIn" title="LinkedIn" height="25" /></a>
     &nbsp;
     <a href="mailto:praneeth.kolanu.iitkgp@gmail.com"><img src="https://img.shields.io/badge/Email-282C34?logo=gmail&amp;logoColor=ff0000" alt="Email" title="Email" height="25" /></a>
   </p>
